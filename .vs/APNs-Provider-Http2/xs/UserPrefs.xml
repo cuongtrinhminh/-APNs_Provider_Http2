@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{CD0CD420-928F-4ACC-A119-678AE7B28A0B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="APNs-Provider-Http2/Program.cs">
+    <Files>
+      <File FileName="APNs-Provider-Http2/Program.cs" Line="12" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="APNs-Provider-Http2" expanded="True">
+            <Node name="APNs-Provider-Http2" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.APNs-Provider-Http2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
